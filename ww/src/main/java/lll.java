@@ -8,5 +8,9 @@ public class lll {
 
     public static void main(String[] args) {
         System.out.println("hellowrold");
+
+        System.out.println("00000000000002");
+        System.out.println("hellowrold2");
     }
+
 }
